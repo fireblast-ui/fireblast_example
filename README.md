@@ -1,5 +1,11 @@
 # FireblastExample
 
+If you want to mess around with Fireblast this file is a good starting point:
+`lib/fireblast_example_web/views/fireblast_view.ex`
+
+You don't need to split things as much as I've done and you can define modules
+in different files. But this is just meant as an example.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
